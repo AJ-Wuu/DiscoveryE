@@ -1,8 +1,8 @@
 # DiscoveryE -- Connect users to small businesses  
-* FrontEnd (React): Jillian Genova
+* FrontEnd (React): Jillian Genova, AiJing Wu
 * BackEnd  
-   * Google Map: Casilda Lewis  
-   * SQL: AiJing Wu  
+   * SQL: AiJing Wu
+   * Python: AiJing Wu, Casilda Lewis
    * Flask: Vishnu Yarlagadda, Casilda Lewis  
 * Mentors: Trace Carrasco, Cassidy Schneider, Tyler Luedtke
 * Course Professor: Amber Field
