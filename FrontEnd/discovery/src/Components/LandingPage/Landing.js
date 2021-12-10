@@ -10,7 +10,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import InputAdornment from '@mui/material/InputAdornment';
 import IconButton from '@mui/material/IconButton';
 
-const filters = ["food", "clothes", "gift", "services", "other"];
+const filters = ["food", "clothes", "gift", "services", "leisure"];
 
 const Landing = () => {
     const [search, setSearch] = useState(''); // users location
